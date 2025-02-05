@@ -17,7 +17,7 @@
 	<verbose>FALSE</verbose>
 	<iteration_limit>100</iteration_limit>
 	<federation_reiteration>FALSE</federation_reiteration>
-	<workdir>/root/corvid</workdir>
+	<workdir>/mnt/roi-uncc/examples/simple-cosim</workdir>
 	<lock>TRUE</lock>
 	<dumpfile>gridlabd.xml</dumpfile>
 	<savefile>""</savefile>
@@ -43,7 +43,7 @@
 	<strictnames>TRUE</strictnames>
 	<website>http://www.gridlabd.org/</website>
 	<urlbase>http://www.gridlabd.org/</urlbase>
-	<randomseed>117374166</randomseed>
+	<randomseed>131524</randomseed>
 	<include>""</include>
 	<trace>""</trace>
 	<gdb_window>FALSE</gdb_window>

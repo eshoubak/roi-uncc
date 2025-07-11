@@ -1,0 +1,11 @@
+# file...... capacitor_state.csv
+# date...... Thu Jul 10 21:10:21 2025
+# user...... (null)
+# host...... (null)
+# target.... capacitor 9
+# trigger... (none)
+# interval.. 60
+# limit..... 0
+# timestamp,CapBank0:switchA,CapBank0:switchB,CapBank0:switchC,CapBank1:switchA,CapBank1:switchB,CapBank1:switchC,CapBank2:switchA,CapBank2:switchB,CapBank2:switchC
+2000-09-01 12:00:00 PDT,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED
+2000-09-01 12:01:00 PDT,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED,CLOSED

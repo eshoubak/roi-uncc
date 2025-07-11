@@ -1,0 +1,11 @@
+# file...... main_regulator.csv
+# date...... Thu Jul 10 21:10:21 2025
+# user...... (null)
+# host...... (null)
+# target.... regulator 5
+# trigger... (none)
+# interval.. 60
+# limit..... 0
+# timestamp,power_in_A.real,power_in_A.imag,power_in_B.real,power_in_B.imag,power_in_C.real,power_in_C.imag
+2000-09-01 12:00:00 PDT,+4.20152e+06,+437213,+4.02516e+06,+518828,+3.78441e+06,+55342.6
+2000-09-01 12:01:00 PDT,+4.26564e+06,+584746,+4.04727e+06,+650739,+3.78776e+06,+123596

@@ -1,0 +1,11 @@
+# file...... regulator_taps.csv
+# date...... Thu Jul 10 21:10:21 2025
+# user...... (null)
+# host...... (null)
+# target.... regulator 5
+# trigger... (none)
+# interval.. 60
+# limit..... 0
+# timestamp,tap_A,tap_B,tap_C,VREG2:tap_A,VREG2:tap_B,VREG2:tap_C,VREG3:tap_A,VREG3:tap_B,VREG3:tap_C,VREG4:tap_A,VREG4:tap_B,VREG4:tap_C
+2000-09-01 12:00:00 PDT,2,2,1,10,6,2,16,10,1,12,12,5
+2000-09-01 12:01:00 PDT,2,2,1,10,6,2,16,10,1,12,12,5

@@ -1,0 +1,1126 @@
+[2026-04-13 15:29:07.996] [console] [info] gld_3bus_fed::registering Input 
+[2026-04-13 15:29:07.997] [console] [info] gld_3bus_fed::registering Input 
+[2026-04-13 15:29:07.997] [console] [info] gld_3bus_fed::registering Input 
+
+WARNING  [INIT] : The external solver solver_KLU could not be found, defaulting to superLU
+[2026-04-13 15:29:08.534] [console] [debug] gld_3bus_fed (131072)[initializing]::Granting Initialization
+[2026-04-13 15:29:08.535] [console] [debug] gld_3bus_fed (131072)[initializing]::Granted Time=-9223372036.854776
+[2026-04-13 15:29:08.539] [console] [debug] gld_3bus_fed (131072)[executing]::Granting Execution
+[2026-04-13 15:29:08.539] [console] [debug] gld_3bus_fed (131072)[0]::Granted Time=0
+[2026-04-13 15:29:08.556] [console] [debug] gld_3bus_fed[0]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.556] [console] [debug] gld_3bus_fed[0]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.556] [console] [debug] gld_3bus_fed[0]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.557] [console] [debug] gld_3bus_fed (131072)[0]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 0 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:08.557] [console] [debug] gld_3bus_fed (131072)[0]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 0 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:08.557] [console] [debug] gld_3bus_fed (131072)[0]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 0 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:08.557] [console] [debug] gld_3bus_fed (131072)[15]::Granted Time=15
+[2026-04-13 15:29:08.565] [console] [debug] gld_3bus_fed[15]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.565] [console] [debug] gld_3bus_fed[15]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.566] [console] [debug] gld_3bus_fed[15]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.566] [console] [debug] gld_3bus_fed (131072)[30]::Granted Time=30
+[2026-04-13 15:29:08.568] [console] [debug] gld_3bus_fed[30]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.568] [console] [debug] gld_3bus_fed[30]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.568] [console] [debug] gld_3bus_fed[30]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.569] [console] [debug] gld_3bus_fed (131072)[45]::Granted Time=45
+[2026-04-13 15:29:08.570] [console] [debug] gld_3bus_fed[45]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.571] [console] [debug] gld_3bus_fed[45]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.571] [console] [debug] gld_3bus_fed[45]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.571] [console] [debug] gld_3bus_fed (131072)[60]::Granted Time=60
+[2026-04-13 15:29:08.573] [console] [debug] gld_3bus_fed[60]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.573] [console] [debug] gld_3bus_fed[60]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.573] [console] [debug] gld_3bus_fed[60]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.574] [console] [debug] gld_3bus_fed (131072)[75]::Granted Time=75
+[2026-04-13 15:29:08.575] [console] [debug] gld_3bus_fed[75]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.575] [console] [debug] gld_3bus_fed[75]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.575] [console] [debug] gld_3bus_fed[75]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.576] [console] [debug] gld_3bus_fed (131072)[900]::Granted Time=900
+[2026-04-13 15:29:08.577] [console] [debug] gld_3bus_fed[900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.577] [console] [debug] gld_3bus_fed[900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.577] [console] [debug] gld_3bus_fed[900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.672] [console] [debug] gld_3bus_fed (131072)[900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:08.677] [console] [debug] gld_3bus_fed (131072)[900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:08.695] [console] [debug] gld_3bus_fed (131072)[900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:08.695] [console] [debug] gld_3bus_fed (131072)[915]::Granted Time=915
+[2026-04-13 15:29:08.696] [console] [debug] gld_3bus_fed[915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.696] [console] [debug] gld_3bus_fed[915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.696] [console] [debug] gld_3bus_fed[915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.697] [console] [debug] gld_3bus_fed (131072)[1800]::Granted Time=1800
+[2026-04-13 15:29:08.697] [console] [debug] gld_3bus_fed[1800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.697] [console] [debug] gld_3bus_fed[1800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.697] [console] [debug] gld_3bus_fed[1800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.786] [console] [debug] gld_3bus_fed (131072)[1800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 1800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:08.788] [console] [debug] gld_3bus_fed (131072)[1800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 1800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:08.804] [console] [debug] gld_3bus_fed (131072)[1800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 1800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:08.804] [console] [debug] gld_3bus_fed (131072)[1815]::Granted Time=1815
+[2026-04-13 15:29:08.806] [console] [debug] gld_3bus_fed[1815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.806] [console] [debug] gld_3bus_fed[1815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.806] [console] [debug] gld_3bus_fed[1815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.807] [console] [debug] gld_3bus_fed (131072)[2700]::Granted Time=2700
+[2026-04-13 15:29:08.807] [console] [debug] gld_3bus_fed[2700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.807] [console] [debug] gld_3bus_fed[2700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.808] [console] [debug] gld_3bus_fed[2700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.898] [console] [debug] gld_3bus_fed (131072)[2700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 2700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:08.899] [console] [debug] gld_3bus_fed (131072)[2700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 2700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:08.917] [console] [debug] gld_3bus_fed (131072)[2700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 2700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:08.917] [console] [debug] gld_3bus_fed (131072)[2715]::Granted Time=2715
+[2026-04-13 15:29:08.918] [console] [debug] gld_3bus_fed[2715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.918] [console] [debug] gld_3bus_fed[2715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.919] [console] [debug] gld_3bus_fed[2715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:08.919] [console] [debug] gld_3bus_fed (131072)[3600]::Granted Time=3600
+[2026-04-13 15:29:08.919] [console] [debug] gld_3bus_fed[3600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:08.920] [console] [debug] gld_3bus_fed[3600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:08.920] [console] [debug] gld_3bus_fed[3600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.014] [console] [debug] gld_3bus_fed (131072)[3600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 3600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:09.016] [console] [debug] gld_3bus_fed (131072)[3600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 3600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:09.033] [console] [debug] gld_3bus_fed (131072)[3600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 3600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:09.034] [console] [debug] gld_3bus_fed (131072)[3615]::Granted Time=3615
+Processing 2000-09-01 01:00:15 EDT...[2026-04-13 15:29:09.035] [console] [debug] gld_3bus_fed[3615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.035] [console] [debug] gld_3bus_fed[3615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.035] [console] [debug] gld_3bus_fed[3615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.035] [console] [debug] gld_3bus_fed (131072)[4500]::Granted Time=4500
+[2026-04-13 15:29:09.036] [console] [debug] gld_3bus_fed[4500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.036] [console] [debug] gld_3bus_fed[4500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.037] [console] [debug] gld_3bus_fed[4500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.166] [console] [debug] gld_3bus_fed (131072)[4500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 4500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:09.167] [console] [debug] gld_3bus_fed (131072)[4500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 4500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:09.181] [console] [debug] gld_3bus_fed (131072)[4500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 4500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:09.182] [console] [debug] gld_3bus_fed (131072)[4515]::Granted Time=4515
+[2026-04-13 15:29:09.183] [console] [debug] gld_3bus_fed[4515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.183] [console] [debug] gld_3bus_fed[4515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.183] [console] [debug] gld_3bus_fed[4515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.184] [console] [debug] gld_3bus_fed (131072)[5400]::Granted Time=5400
+[2026-04-13 15:29:09.184] [console] [debug] gld_3bus_fed[5400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.185] [console] [debug] gld_3bus_fed[5400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.185] [console] [debug] gld_3bus_fed[5400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.322] [console] [debug] gld_3bus_fed (131072)[5400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 5400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:09.324] [console] [debug] gld_3bus_fed (131072)[5400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 5400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:09.345] [console] [debug] gld_3bus_fed (131072)[5400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 5400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:09.346] [console] [debug] gld_3bus_fed (131072)[5415]::Granted Time=5415
+[2026-04-13 15:29:09.346] [console] [debug] gld_3bus_fed[5415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.346] [console] [debug] gld_3bus_fed[5415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.347] [console] [debug] gld_3bus_fed[5415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.347] [console] [debug] gld_3bus_fed (131072)[6300]::Granted Time=6300
+[2026-04-13 15:29:09.347] [console] [debug] gld_3bus_fed[6300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.348] [console] [debug] gld_3bus_fed[6300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.348] [console] [debug] gld_3bus_fed[6300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.497] [console] [debug] gld_3bus_fed (131072)[6300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 6300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:09.498] [console] [debug] gld_3bus_fed (131072)[6300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 6300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:09.515] [console] [debug] gld_3bus_fed (131072)[6300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 6300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:09.516] [console] [debug] gld_3bus_fed (131072)[6315]::Granted Time=6315
+[2026-04-13 15:29:09.516] [console] [debug] gld_3bus_fed[6315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.517] [console] [debug] gld_3bus_fed[6315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.517] [console] [debug] gld_3bus_fed[6315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.517] [console] [debug] gld_3bus_fed (131072)[7200]::Granted Time=7200
+[2026-04-13 15:29:09.518] [console] [debug] gld_3bus_fed[7200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.518] [console] [debug] gld_3bus_fed[7200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.518] [console] [debug] gld_3bus_fed[7200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.656] [console] [debug] gld_3bus_fed (131072)[7200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 7200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:09.656] [console] [debug] gld_3bus_fed (131072)[7200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 7200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:09.675] [console] [debug] gld_3bus_fed (131072)[7200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 7200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:09.676] [console] [debug] gld_3bus_fed (131072)[7215]::Granted Time=7215
+[2026-04-13 15:29:09.677] [console] [debug] gld_3bus_fed[7215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.677] [console] [debug] gld_3bus_fed[7215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.677] [console] [debug] gld_3bus_fed[7215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.678] [console] [debug] gld_3bus_fed (131072)[8100]::Granted Time=8100
+[2026-04-13 15:29:09.678] [console] [debug] gld_3bus_fed[8100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.678] [console] [debug] gld_3bus_fed[8100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.679] [console] [debug] gld_3bus_fed[8100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.850] [console] [debug] gld_3bus_fed (131072)[8100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 8100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:09.852] [console] [debug] gld_3bus_fed (131072)[8100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 8100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:09.870] [console] [debug] gld_3bus_fed (131072)[8100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 8100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:09.871] [console] [debug] gld_3bus_fed (131072)[8115]::Granted Time=8115
+[2026-04-13 15:29:09.873] [console] [debug] gld_3bus_fed[8115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.873] [console] [debug] gld_3bus_fed[8115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.873] [console] [debug] gld_3bus_fed[8115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:09.873] [console] [debug] gld_3bus_fed (131072)[9000]::Granted Time=9000
+[2026-04-13 15:29:09.874] [console] [debug] gld_3bus_fed[9000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:09.874] [console] [debug] gld_3bus_fed[9000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:09.874] [console] [debug] gld_3bus_fed[9000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.053] [console] [debug] gld_3bus_fed (131072)[9000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 9000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:10.054] [console] [debug] gld_3bus_fed (131072)[9000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 9000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:10.074] [console] [debug] gld_3bus_fed (131072)[9000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 9000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:10.075] [console] [debug] gld_3bus_fed (131072)[9015]::Granted Time=9015
+                                      Processing 2000-09-01 02:30:15 EDT...[2026-04-13 15:29:10.076] [console] [debug] gld_3bus_fed[9015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.076] [console] [debug] gld_3bus_fed[9015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.076] [console] [debug] gld_3bus_fed[9015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.076] [console] [debug] gld_3bus_fed (131072)[9900]::Granted Time=9900
+[2026-04-13 15:29:10.077] [console] [debug] gld_3bus_fed[9900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.077] [console] [debug] gld_3bus_fed[9900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.077] [console] [debug] gld_3bus_fed[9900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.271] [console] [debug] gld_3bus_fed (131072)[9900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 9900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:10.271] [console] [debug] gld_3bus_fed (131072)[9900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 9900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:10.290] [console] [debug] gld_3bus_fed (131072)[9900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 9900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:10.291] [console] [debug] gld_3bus_fed (131072)[9915]::Granted Time=9915
+[2026-04-13 15:29:10.291] [console] [debug] gld_3bus_fed[9915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.292] [console] [debug] gld_3bus_fed[9915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.292] [console] [debug] gld_3bus_fed[9915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.292] [console] [debug] gld_3bus_fed (131072)[10800]::Granted Time=10800
+[2026-04-13 15:29:10.293] [console] [debug] gld_3bus_fed[10800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.293] [console] [debug] gld_3bus_fed[10800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.293] [console] [debug] gld_3bus_fed[10800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.488] [console] [debug] gld_3bus_fed (131072)[10800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 10800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:10.489] [console] [debug] gld_3bus_fed (131072)[10800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 10800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:10.508] [console] [debug] gld_3bus_fed (131072)[10800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 10800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:10.508] [console] [debug] gld_3bus_fed (131072)[10815]::Granted Time=10815
+[2026-04-13 15:29:10.509] [console] [debug] gld_3bus_fed[10815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.509] [console] [debug] gld_3bus_fed[10815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.509] [console] [debug] gld_3bus_fed[10815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.510] [console] [debug] gld_3bus_fed (131072)[11700]::Granted Time=11700
+[2026-04-13 15:29:10.510] [console] [debug] gld_3bus_fed[11700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.510] [console] [debug] gld_3bus_fed[11700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.511] [console] [debug] gld_3bus_fed[11700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.724] [console] [debug] gld_3bus_fed (131072)[11700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 11700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:10.726] [console] [debug] gld_3bus_fed (131072)[11700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 11700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:10.745] [console] [debug] gld_3bus_fed (131072)[11700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 11700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:10.746] [console] [debug] gld_3bus_fed (131072)[11715]::Granted Time=11715
+[2026-04-13 15:29:10.747] [console] [debug] gld_3bus_fed[11715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.747] [console] [debug] gld_3bus_fed[11715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.747] [console] [debug] gld_3bus_fed[11715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.747] [console] [debug] gld_3bus_fed (131072)[12600]::Granted Time=12600
+[2026-04-13 15:29:10.748] [console] [debug] gld_3bus_fed[12600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.748] [console] [debug] gld_3bus_fed[12600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.749] [console] [debug] gld_3bus_fed[12600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.970] [console] [debug] gld_3bus_fed (131072)[12600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 12600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:10.971] [console] [debug] gld_3bus_fed (131072)[12600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 12600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:10.993] [console] [debug] gld_3bus_fed (131072)[12600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 12600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:10.994] [console] [debug] gld_3bus_fed (131072)[12615]::Granted Time=12615
+[2026-04-13 15:29:10.994] [console] [debug] gld_3bus_fed[12615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.995] [console] [debug] gld_3bus_fed[12615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.995] [console] [debug] gld_3bus_fed[12615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:10.995] [console] [debug] gld_3bus_fed (131072)[13500]::Granted Time=13500
+[2026-04-13 15:29:10.996] [console] [debug] gld_3bus_fed[13500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:10.996] [console] [debug] gld_3bus_fed[13500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:10.996] [console] [debug] gld_3bus_fed[13500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:11.225] [console] [debug] gld_3bus_fed (131072)[13500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 13500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:11.226] [console] [debug] gld_3bus_fed (131072)[13500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 13500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:11.245] [console] [debug] gld_3bus_fed (131072)[13500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 13500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:11.246] [console] [debug] gld_3bus_fed (131072)[13515]::Granted Time=13515
+                                      Processing 2000-09-01 03:45:15 EDT...[2026-04-13 15:29:11.247] [console] [debug] gld_3bus_fed[13515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:11.247] [console] [debug] gld_3bus_fed[13515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:11.247] [console] [debug] gld_3bus_fed[13515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:11.247] [console] [debug] gld_3bus_fed (131072)[14400]::Granted Time=14400
+[2026-04-13 15:29:11.248] [console] [debug] gld_3bus_fed[14400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:11.248] [console] [debug] gld_3bus_fed[14400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:11.248] [console] [debug] gld_3bus_fed[14400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:11.481] [console] [debug] gld_3bus_fed (131072)[14400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 14400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:11.485] [console] [debug] gld_3bus_fed (131072)[14400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 14400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:11.505] [console] [debug] gld_3bus_fed (131072)[14400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 14400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:11.506] [console] [debug] gld_3bus_fed (131072)[14415]::Granted Time=14415
+[2026-04-13 15:29:11.507] [console] [debug] gld_3bus_fed[14415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:11.507] [console] [debug] gld_3bus_fed[14415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:11.508] [console] [debug] gld_3bus_fed[14415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:11.508] [console] [debug] gld_3bus_fed (131072)[15300]::Granted Time=15300
+[2026-04-13 15:29:11.508] [console] [debug] gld_3bus_fed[15300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:11.509] [console] [debug] gld_3bus_fed[15300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:11.509] [console] [debug] gld_3bus_fed[15300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:11.754] [console] [debug] gld_3bus_fed (131072)[15300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 15300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:11.754] [console] [debug] gld_3bus_fed (131072)[15300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 15300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:11.775] [console] [debug] gld_3bus_fed (131072)[15300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 15300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:11.776] [console] [debug] gld_3bus_fed (131072)[15315]::Granted Time=15315
+[2026-04-13 15:29:11.777] [console] [debug] gld_3bus_fed[15315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:11.777] [console] [debug] gld_3bus_fed[15315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:11.777] [console] [debug] gld_3bus_fed[15315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:11.778] [console] [debug] gld_3bus_fed (131072)[16200]::Granted Time=16200
+[2026-04-13 15:29:11.778] [console] [debug] gld_3bus_fed[16200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:11.778] [console] [debug] gld_3bus_fed[16200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:11.779] [console] [debug] gld_3bus_fed[16200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:12.005] [console] [debug] gld_3bus_fed (131072)[16200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 16200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:12.005] [console] [debug] gld_3bus_fed (131072)[16200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 16200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:12.025] [console] [debug] gld_3bus_fed (131072)[16200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 16200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:12.026] [console] [debug] gld_3bus_fed (131072)[16215]::Granted Time=16215
+                                      Processing 2000-09-01 04:30:15 EDT...[2026-04-13 15:29:12.027] [console] [debug] gld_3bus_fed[16215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:12.027] [console] [debug] gld_3bus_fed[16215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:12.027] [console] [debug] gld_3bus_fed[16215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:12.027] [console] [debug] gld_3bus_fed (131072)[17100]::Granted Time=17100
+[2026-04-13 15:29:12.028] [console] [debug] gld_3bus_fed[17100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:12.028] [console] [debug] gld_3bus_fed[17100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:12.028] [console] [debug] gld_3bus_fed[17100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:12.285] [console] [debug] gld_3bus_fed (131072)[17100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 17100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:12.286] [console] [debug] gld_3bus_fed (131072)[17100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 17100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:12.305] [console] [debug] gld_3bus_fed (131072)[17100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 17100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:12.305] [console] [debug] gld_3bus_fed (131072)[17115]::Granted Time=17115
+[2026-04-13 15:29:12.306] [console] [debug] gld_3bus_fed[17115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:12.306] [console] [debug] gld_3bus_fed[17115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:12.306] [console] [debug] gld_3bus_fed[17115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:12.306] [console] [debug] gld_3bus_fed (131072)[18000]::Granted Time=18000
+[2026-04-13 15:29:12.307] [console] [debug] gld_3bus_fed[18000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:12.307] [console] [debug] gld_3bus_fed[18000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:12.307] [console] [debug] gld_3bus_fed[18000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:12.574] [console] [debug] gld_3bus_fed (131072)[18000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 18000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:12.577] [console] [debug] gld_3bus_fed (131072)[18000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 18000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:12.599] [console] [debug] gld_3bus_fed (131072)[18000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 18000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:12.599] [console] [debug] gld_3bus_fed (131072)[18015]::Granted Time=18015
+[2026-04-13 15:29:12.600] [console] [debug] gld_3bus_fed[18015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:12.600] [console] [debug] gld_3bus_fed[18015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:12.600] [console] [debug] gld_3bus_fed[18015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:12.601] [console] [debug] gld_3bus_fed (131072)[18900]::Granted Time=18900
+[2026-04-13 15:29:12.601] [console] [debug] gld_3bus_fed[18900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:12.601] [console] [debug] gld_3bus_fed[18900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:12.601] [console] [debug] gld_3bus_fed[18900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:12.880] [console] [debug] gld_3bus_fed (131072)[18900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 18900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:12.880] [console] [debug] gld_3bus_fed (131072)[18900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 18900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:12.901] [console] [debug] gld_3bus_fed (131072)[18900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 18900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:12.902] [console] [debug] gld_3bus_fed (131072)[18915]::Granted Time=18915
+[2026-04-13 15:29:12.902] [console] [debug] gld_3bus_fed[18915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:12.902] [console] [debug] gld_3bus_fed[18915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:12.903] [console] [debug] gld_3bus_fed[18915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:12.903] [console] [debug] gld_3bus_fed (131072)[19800]::Granted Time=19800
+[2026-04-13 15:29:12.903] [console] [debug] gld_3bus_fed[19800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:12.904] [console] [debug] gld_3bus_fed[19800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:12.904] [console] [debug] gld_3bus_fed[19800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:13.193] [console] [debug] gld_3bus_fed (131072)[19800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 19800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:13.194] [console] [debug] gld_3bus_fed (131072)[19800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 19800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:13.215] [console] [debug] gld_3bus_fed (131072)[19800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 19800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:13.215] [console] [debug] gld_3bus_fed (131072)[19815]::Granted Time=19815
+                                      Processing 2000-09-01 05:30:15 EDT...[2026-04-13 15:29:13.217] [console] [debug] gld_3bus_fed[19815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:13.217] [console] [debug] gld_3bus_fed[19815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:13.218] [console] [debug] gld_3bus_fed[19815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:13.218] [console] [debug] gld_3bus_fed (131072)[20700]::Granted Time=20700
+[2026-04-13 15:29:13.218] [console] [debug] gld_3bus_fed[20700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:13.218] [console] [debug] gld_3bus_fed[20700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:13.219] [console] [debug] gld_3bus_fed[20700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:13.509] [console] [debug] gld_3bus_fed (131072)[20700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 20700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:13.509] [console] [debug] gld_3bus_fed (131072)[20700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 20700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:13.530] [console] [debug] gld_3bus_fed (131072)[20700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 20700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:13.531] [console] [debug] gld_3bus_fed (131072)[20715]::Granted Time=20715
+[2026-04-13 15:29:13.532] [console] [debug] gld_3bus_fed[20715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:13.532] [console] [debug] gld_3bus_fed[20715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:13.532] [console] [debug] gld_3bus_fed[20715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:13.532] [console] [debug] gld_3bus_fed (131072)[21600]::Granted Time=21600
+[2026-04-13 15:29:13.533] [console] [debug] gld_3bus_fed[21600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:13.533] [console] [debug] gld_3bus_fed[21600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:13.533] [console] [debug] gld_3bus_fed[21600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:13.828] [console] [debug] gld_3bus_fed (131072)[21600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 21600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:13.829] [console] [debug] gld_3bus_fed (131072)[21600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 21600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:13.850] [console] [debug] gld_3bus_fed (131072)[21600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 21600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:13.851] [console] [debug] gld_3bus_fed (131072)[21615]::Granted Time=21615
+[2026-04-13 15:29:13.851] [console] [debug] gld_3bus_fed[21615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:13.852] [console] [debug] gld_3bus_fed[21615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:13.852] [console] [debug] gld_3bus_fed[21615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:13.852] [console] [debug] gld_3bus_fed (131072)[22500]::Granted Time=22500
+[2026-04-13 15:29:13.853] [console] [debug] gld_3bus_fed[22500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:13.853] [console] [debug] gld_3bus_fed[22500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:13.853] [console] [debug] gld_3bus_fed[22500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.163] [console] [debug] gld_3bus_fed (131072)[22500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 22500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:14.163] [console] [debug] gld_3bus_fed (131072)[22500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 22500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:14.182] [console] [debug] gld_3bus_fed (131072)[22500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 22500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:14.183] [console] [debug] gld_3bus_fed (131072)[22515]::Granted Time=22515
+                                      Processing 2000-09-01 06:15:15 EDT...[2026-04-13 15:29:14.183] [console] [debug] gld_3bus_fed[22515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.183] [console] [debug] gld_3bus_fed[22515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.184] [console] [debug] gld_3bus_fed[22515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.184] [console] [debug] gld_3bus_fed (131072)[23400]::Granted Time=23400
+[2026-04-13 15:29:14.185] [console] [debug] gld_3bus_fed[23400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.185] [console] [debug] gld_3bus_fed[23400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.185] [console] [debug] gld_3bus_fed[23400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.504] [console] [debug] gld_3bus_fed (131072)[23400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 23400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:14.506] [console] [debug] gld_3bus_fed (131072)[23400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 23400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:14.525] [console] [debug] gld_3bus_fed (131072)[23400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 23400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:14.525] [console] [debug] gld_3bus_fed (131072)[23415]::Granted Time=23415
+[2026-04-13 15:29:14.526] [console] [debug] gld_3bus_fed[23415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.526] [console] [debug] gld_3bus_fed[23415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.526] [console] [debug] gld_3bus_fed[23415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.527] [console] [debug] gld_3bus_fed (131072)[24300]::Granted Time=24300
+[2026-04-13 15:29:14.527] [console] [debug] gld_3bus_fed[24300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.527] [console] [debug] gld_3bus_fed[24300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.527] [console] [debug] gld_3bus_fed[24300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.842] [console] [debug] gld_3bus_fed (131072)[24300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 24300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:14.843] [console] [debug] gld_3bus_fed (131072)[24300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 24300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:14.864] [console] [debug] gld_3bus_fed (131072)[24300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 24300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:14.864] [console] [debug] gld_3bus_fed (131072)[24315]::Granted Time=24315
+[2026-04-13 15:29:14.865] [console] [debug] gld_3bus_fed[24315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.865] [console] [debug] gld_3bus_fed[24315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.865] [console] [debug] gld_3bus_fed[24315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.866] [console] [debug] gld_3bus_fed (131072)[25200]::Granted Time=25200
+[2026-04-13 15:29:14.866] [console] [debug] gld_3bus_fed[25200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.866] [console] [debug] gld_3bus_fed[25200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.867] [console] [debug] gld_3bus_fed[25200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:13.948] [console] [debug] gld_3bus_fed (131072)[25200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 25200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:13.948] [console] [debug] gld_3bus_fed (131072)[25200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 25200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:13.970] [console] [debug] gld_3bus_fed (131072)[25200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 25200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:13.971] [console] [debug] gld_3bus_fed (131072)[25215]::Granted Time=25215
+[2026-04-13 15:29:13.971] [console] [debug] gld_3bus_fed[25215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:13.972] [console] [debug] gld_3bus_fed[25215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:13.972] [console] [debug] gld_3bus_fed[25215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:13.972] [console] [debug] gld_3bus_fed (131072)[26100]::Granted Time=26100
+[2026-04-13 15:29:13.973] [console] [debug] gld_3bus_fed[26100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:13.974] [console] [debug] gld_3bus_fed[26100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:13.974] [console] [debug] gld_3bus_fed[26100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.296] [console] [debug] gld_3bus_fed (131072)[26100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 26100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:14.298] [console] [debug] gld_3bus_fed (131072)[26100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 26100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:14.317] [console] [debug] gld_3bus_fed (131072)[26100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 26100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:14.318] [console] [debug] gld_3bus_fed (131072)[26115]::Granted Time=26115
+[2026-04-13 15:29:14.319] [console] [debug] gld_3bus_fed[26115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.320] [console] [debug] gld_3bus_fed[26115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.320] [console] [debug] gld_3bus_fed[26115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.320] [console] [debug] gld_3bus_fed (131072)[27000]::Granted Time=27000
+[2026-04-13 15:29:14.321] [console] [debug] gld_3bus_fed[27000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.321] [console] [debug] gld_3bus_fed[27000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.321] [console] [debug] gld_3bus_fed[27000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.675] [console] [debug] gld_3bus_fed (131072)[27000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 27000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:14.676] [console] [debug] gld_3bus_fed (131072)[27000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 27000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:14.695] [console] [debug] gld_3bus_fed (131072)[27000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 27000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:14.696] [console] [debug] gld_3bus_fed (131072)[27015]::Granted Time=27015
+[2026-04-13 15:29:14.696] [console] [debug] gld_3bus_fed[27015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.697] [console] [debug] gld_3bus_fed[27015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.697] [console] [debug] gld_3bus_fed[27015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:14.697] [console] [debug] gld_3bus_fed (131072)[27900]::Granted Time=27900
+[2026-04-13 15:29:14.698] [console] [debug] gld_3bus_fed[27900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:14.698] [console] [debug] gld_3bus_fed[27900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:14.698] [console] [debug] gld_3bus_fed[27900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:15.057] [console] [debug] gld_3bus_fed (131072)[27900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 27900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:15.057] [console] [debug] gld_3bus_fed (131072)[27900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 27900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:15.077] [console] [debug] gld_3bus_fed (131072)[27900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 27900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:15.078] [console] [debug] gld_3bus_fed (131072)[27915]::Granted Time=27915
+                                      Processing 2000-09-01 07:45:15 EDT...[2026-04-13 15:29:15.079] [console] [debug] gld_3bus_fed[27915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:15.079] [console] [debug] gld_3bus_fed[27915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:15.079] [console] [debug] gld_3bus_fed[27915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:15.079] [console] [debug] gld_3bus_fed (131072)[28800]::Granted Time=28800
+[2026-04-13 15:29:15.080] [console] [debug] gld_3bus_fed[28800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:15.080] [console] [debug] gld_3bus_fed[28800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:15.080] [console] [debug] gld_3bus_fed[28800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:15.454] [console] [debug] gld_3bus_fed (131072)[28800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 28800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:15.456] [console] [debug] gld_3bus_fed (131072)[28800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 28800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:15.475] [console] [debug] gld_3bus_fed (131072)[28800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 28800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:15.475] [console] [debug] gld_3bus_fed (131072)[28815]::Granted Time=28815
+[2026-04-13 15:29:15.476] [console] [debug] gld_3bus_fed[28815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:15.476] [console] [debug] gld_3bus_fed[28815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:15.476] [console] [debug] gld_3bus_fed[28815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:15.476] [console] [debug] gld_3bus_fed (131072)[29700]::Granted Time=29700
+[2026-04-13 15:29:15.477] [console] [debug] gld_3bus_fed[29700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:15.477] [console] [debug] gld_3bus_fed[29700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:15.477] [console] [debug] gld_3bus_fed[29700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:15.873] [console] [debug] gld_3bus_fed (131072)[29700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 29700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:15.875] [console] [debug] gld_3bus_fed (131072)[29700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 29700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:15.895] [console] [debug] gld_3bus_fed (131072)[29700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 29700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:15.896] [console] [debug] gld_3bus_fed (131072)[29715]::Granted Time=29715
+[2026-04-13 15:29:15.896] [console] [debug] gld_3bus_fed[29715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:15.897] [console] [debug] gld_3bus_fed[29715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:15.897] [console] [debug] gld_3bus_fed[29715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:15.897] [console] [debug] gld_3bus_fed (131072)[30600]::Granted Time=30600
+[2026-04-13 15:29:15.897] [console] [debug] gld_3bus_fed[30600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:15.898] [console] [debug] gld_3bus_fed[30600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:15.898] [console] [debug] gld_3bus_fed[30600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:16.296] [console] [debug] gld_3bus_fed (131072)[30600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 30600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:16.296] [console] [debug] gld_3bus_fed (131072)[30600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 30600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:16.315] [console] [debug] gld_3bus_fed (131072)[30600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 30600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:16.316] [console] [debug] gld_3bus_fed (131072)[30615]::Granted Time=30615
+                                      Processing 2000-09-01 08:30:15 EDT...[2026-04-13 15:29:16.317] [console] [debug] gld_3bus_fed[30615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:16.317] [console] [debug] gld_3bus_fed[30615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:16.317] [console] [debug] gld_3bus_fed[30615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:16.317] [console] [debug] gld_3bus_fed (131072)[31500]::Granted Time=31500
+[2026-04-13 15:29:16.318] [console] [debug] gld_3bus_fed[31500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:16.318] [console] [debug] gld_3bus_fed[31500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:16.318] [console] [debug] gld_3bus_fed[31500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:16.679] [console] [debug] gld_3bus_fed (131072)[31500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 31500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:16.686] [console] [debug] gld_3bus_fed (131072)[31500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 31500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:16.702] [console] [debug] gld_3bus_fed (131072)[31500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 31500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:16.702] [console] [debug] gld_3bus_fed (131072)[31515]::Granted Time=31515
+[2026-04-13 15:29:16.703] [console] [debug] gld_3bus_fed[31515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:16.704] [console] [debug] gld_3bus_fed[31515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:16.704] [console] [debug] gld_3bus_fed[31515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:16.704] [console] [debug] gld_3bus_fed (131072)[32400]::Granted Time=32400
+[2026-04-13 15:29:16.704] [console] [debug] gld_3bus_fed[32400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:16.705] [console] [debug] gld_3bus_fed[32400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:16.705] [console] [debug] gld_3bus_fed[32400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:17.118] [console] [debug] gld_3bus_fed (131072)[32400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 32400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:17.120] [console] [debug] gld_3bus_fed (131072)[32400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 32400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:17.141] [console] [debug] gld_3bus_fed (131072)[32400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 32400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:17.141] [console] [debug] gld_3bus_fed (131072)[32415]::Granted Time=32415
+                                      Processing 2000-09-01 09:00:15 EDT...[2026-04-13 15:29:17.143] [console] [debug] gld_3bus_fed[32415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:17.143] [console] [debug] gld_3bus_fed[32415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:17.143] [console] [debug] gld_3bus_fed[32415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:17.144] [console] [debug] gld_3bus_fed (131072)[33300]::Granted Time=33300
+[2026-04-13 15:29:17.144] [console] [debug] gld_3bus_fed[33300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:17.145] [console] [debug] gld_3bus_fed[33300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:17.145] [console] [debug] gld_3bus_fed[33300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:17.579] [console] [debug] gld_3bus_fed (131072)[33300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 33300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:17.580] [console] [debug] gld_3bus_fed (131072)[33300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 33300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:17.602] [console] [debug] gld_3bus_fed (131072)[33300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 33300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:17.603] [console] [debug] gld_3bus_fed (131072)[33315]::Granted Time=33315
+[2026-04-13 15:29:17.603] [console] [debug] gld_3bus_fed[33315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:17.604] [console] [debug] gld_3bus_fed[33315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:17.604] [console] [debug] gld_3bus_fed[33315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:17.604] [console] [debug] gld_3bus_fed (131072)[34200]::Granted Time=34200
+[2026-04-13 15:29:17.605] [console] [debug] gld_3bus_fed[34200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:17.605] [console] [debug] gld_3bus_fed[34200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:17.605] [console] [debug] gld_3bus_fed[34200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:18.027] [console] [debug] gld_3bus_fed (131072)[34200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 34200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:18.028] [console] [debug] gld_3bus_fed (131072)[34200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 34200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:18.050] [console] [debug] gld_3bus_fed (131072)[34200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 34200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:18.051] [console] [debug] gld_3bus_fed (131072)[34215]::Granted Time=34215
+                                      Processing 2000-09-01 09:30:15 EDT...[2026-04-13 15:29:18.052] [console] [debug] gld_3bus_fed[34215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:18.052] [console] [debug] gld_3bus_fed[34215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:18.052] [console] [debug] gld_3bus_fed[34215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:18.052] [console] [debug] gld_3bus_fed (131072)[35100]::Granted Time=35100
+[2026-04-13 15:29:18.052] [console] [debug] gld_3bus_fed[35100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:18.053] [console] [debug] gld_3bus_fed[35100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:18.053] [console] [debug] gld_3bus_fed[35100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:18.492] [console] [debug] gld_3bus_fed (131072)[35100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 35100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:18.493] [console] [debug] gld_3bus_fed (131072)[35100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 35100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:18.512] [console] [debug] gld_3bus_fed (131072)[35100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 35100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:18.513] [console] [debug] gld_3bus_fed (131072)[35115]::Granted Time=35115
+[2026-04-13 15:29:18.514] [console] [debug] gld_3bus_fed[35115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:18.514] [console] [debug] gld_3bus_fed[35115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:18.514] [console] [debug] gld_3bus_fed[35115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:18.514] [console] [debug] gld_3bus_fed (131072)[36000]::Granted Time=36000
+[2026-04-13 15:29:18.515] [console] [debug] gld_3bus_fed[36000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:18.515] [console] [debug] gld_3bus_fed[36000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:18.515] [console] [debug] gld_3bus_fed[36000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:18.959] [console] [debug] gld_3bus_fed (131072)[36000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 36000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:18.960] [console] [debug] gld_3bus_fed (131072)[36000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 36000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:18.981] [console] [debug] gld_3bus_fed (131072)[36000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 36000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:18.982] [console] [debug] gld_3bus_fed (131072)[36015]::Granted Time=36015
+[2026-04-13 15:29:18.982] [console] [debug] gld_3bus_fed[36015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:18.983] [console] [debug] gld_3bus_fed[36015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:18.983] [console] [debug] gld_3bus_fed[36015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:18.983] [console] [debug] gld_3bus_fed (131072)[36900]::Granted Time=36900
+[2026-04-13 15:29:18.983] [console] [debug] gld_3bus_fed[36900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:18.984] [console] [debug] gld_3bus_fed[36900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:18.984] [console] [debug] gld_3bus_fed[36900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:19.410] [console] [debug] gld_3bus_fed (131072)[36900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 36900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:19.410] [console] [debug] gld_3bus_fed (131072)[36900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 36900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:19.432] [console] [debug] gld_3bus_fed (131072)[36900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 36900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:19.432] [console] [debug] gld_3bus_fed (131072)[36915]::Granted Time=36915
+                                      Processing 2000-09-01 10:15:15 EDT...[2026-04-13 15:29:19.433] [console] [debug] gld_3bus_fed[36915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:19.434] [console] [debug] gld_3bus_fed[36915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:19.434] [console] [debug] gld_3bus_fed[36915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:19.434] [console] [debug] gld_3bus_fed (131072)[37800]::Granted Time=37800
+[2026-04-13 15:29:19.435] [console] [debug] gld_3bus_fed[37800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:19.435] [console] [debug] gld_3bus_fed[37800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:19.435] [console] [debug] gld_3bus_fed[37800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:19.898] [console] [debug] gld_3bus_fed (131072)[37800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 37800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:19.899] [console] [debug] gld_3bus_fed (131072)[37800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 37800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:19.919] [console] [debug] gld_3bus_fed (131072)[37800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 37800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:19.920] [console] [debug] gld_3bus_fed (131072)[37815]::Granted Time=37815
+[2026-04-13 15:29:19.921] [console] [debug] gld_3bus_fed[37815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:19.921] [console] [debug] gld_3bus_fed[37815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:19.922] [console] [debug] gld_3bus_fed[37815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:19.922] [console] [debug] gld_3bus_fed (131072)[38700]::Granted Time=38700
+[2026-04-13 15:29:19.922] [console] [debug] gld_3bus_fed[38700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:19.923] [console] [debug] gld_3bus_fed[38700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:19.923] [console] [debug] gld_3bus_fed[38700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:20.391] [console] [debug] gld_3bus_fed (131072)[38700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 38700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:20.392] [console] [debug] gld_3bus_fed (131072)[38700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 38700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:20.419] [console] [debug] gld_3bus_fed (131072)[38700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 38700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:20.420] [console] [debug] gld_3bus_fed (131072)[38715]::Granted Time=38715
+                                      Processing 2000-09-01 10:45:15 EDT...[2026-04-13 15:29:20.421] [console] [debug] gld_3bus_fed[38715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:20.422] [console] [debug] gld_3bus_fed[38715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:20.422] [console] [debug] gld_3bus_fed[38715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:20.422] [console] [debug] gld_3bus_fed (131072)[39600]::Granted Time=39600
+[2026-04-13 15:29:20.423] [console] [debug] gld_3bus_fed[39600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:20.423] [console] [debug] gld_3bus_fed[39600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:20.423] [console] [debug] gld_3bus_fed[39600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:20.913] [console] [debug] gld_3bus_fed (131072)[39600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 39600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:20.913] [console] [debug] gld_3bus_fed (131072)[39600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 39600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:20.932] [console] [debug] gld_3bus_fed (131072)[39600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 39600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:20.932] [console] [debug] gld_3bus_fed (131072)[39615]::Granted Time=39615
+[2026-04-13 15:29:20.933] [console] [debug] gld_3bus_fed[39615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:20.933] [console] [debug] gld_3bus_fed[39615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:20.933] [console] [debug] gld_3bus_fed[39615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:20.933] [console] [debug] gld_3bus_fed (131072)[40500]::Granted Time=40500
+[2026-04-13 15:29:20.934] [console] [debug] gld_3bus_fed[40500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:20.934] [console] [debug] gld_3bus_fed[40500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:20.934] [console] [debug] gld_3bus_fed[40500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:21.446] [console] [debug] gld_3bus_fed (131072)[40500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 40500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:21.447] [console] [debug] gld_3bus_fed (131072)[40500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 40500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:21.466] [console] [debug] gld_3bus_fed (131072)[40500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 40500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:21.467] [console] [debug] gld_3bus_fed (131072)[40515]::Granted Time=40515
+                                      Processing 2000-09-01 11:15:15 EDT...[2026-04-13 15:29:21.468] [console] [debug] gld_3bus_fed[40515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:21.468] [console] [debug] gld_3bus_fed[40515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:21.468] [console] [debug] gld_3bus_fed[40515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:21.468] [console] [debug] gld_3bus_fed (131072)[41400]::Granted Time=41400
+[2026-04-13 15:29:21.469] [console] [debug] gld_3bus_fed[41400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:21.469] [console] [debug] gld_3bus_fed[41400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:21.469] [console] [debug] gld_3bus_fed[41400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:21.962] [console] [debug] gld_3bus_fed (131072)[41400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 41400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:21.964] [console] [debug] gld_3bus_fed (131072)[41400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 41400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:21.985] [console] [debug] gld_3bus_fed (131072)[41400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 41400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:21.985] [console] [debug] gld_3bus_fed (131072)[41415]::Granted Time=41415
+[2026-04-13 15:29:21.986] [console] [debug] gld_3bus_fed[41415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:21.986] [console] [debug] gld_3bus_fed[41415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:21.986] [console] [debug] gld_3bus_fed[41415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:21.987] [console] [debug] gld_3bus_fed (131072)[42300]::Granted Time=42300
+[2026-04-13 15:29:21.988] [console] [debug] gld_3bus_fed[42300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:21.988] [console] [debug] gld_3bus_fed[42300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:21.988] [console] [debug] gld_3bus_fed[42300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:22.497] [console] [debug] gld_3bus_fed (131072)[42300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 42300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:22.501] [console] [debug] gld_3bus_fed (131072)[42300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 42300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:22.520] [console] [debug] gld_3bus_fed (131072)[42300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 42300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:22.521] [console] [debug] gld_3bus_fed (131072)[42315]::Granted Time=42315
+                                      Processing 2000-09-01 11:45:15 EDT...[2026-04-13 15:29:22.521] [console] [debug] gld_3bus_fed[42315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:22.522] [console] [debug] gld_3bus_fed[42315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:22.522] [console] [debug] gld_3bus_fed[42315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:22.522] [console] [debug] gld_3bus_fed (131072)[43200]::Granted Time=43200
+[2026-04-13 15:29:22.523] [console] [debug] gld_3bus_fed[43200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:22.523] [console] [debug] gld_3bus_fed[43200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:22.524] [console] [debug] gld_3bus_fed[43200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:23.079] [console] [debug] gld_3bus_fed (131072)[43200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 43200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:23.083] [console] [debug] gld_3bus_fed (131072)[43200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 43200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:23.105] [console] [debug] gld_3bus_fed (131072)[43200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 43200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:23.106] [console] [debug] gld_3bus_fed (131072)[43215]::Granted Time=43215
+                                      Processing 2000-09-01 12:00:15 EDT...[2026-04-13 15:29:23.108] [console] [debug] gld_3bus_fed[43215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:23.108] [console] [debug] gld_3bus_fed[43215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:23.108] [console] [debug] gld_3bus_fed[43215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:23.109] [console] [debug] gld_3bus_fed (131072)[44100]::Granted Time=44100
+[2026-04-13 15:29:23.109] [console] [debug] gld_3bus_fed[44100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:23.110] [console] [debug] gld_3bus_fed[44100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:23.110] [console] [debug] gld_3bus_fed[44100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:23.633] [console] [debug] gld_3bus_fed (131072)[44100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 44100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:23.633] [console] [debug] gld_3bus_fed (131072)[44100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 44100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:23.656] [console] [debug] gld_3bus_fed (131072)[44100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 44100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:23.656] [console] [debug] gld_3bus_fed (131072)[44115]::Granted Time=44115
+[2026-04-13 15:29:23.658] [console] [debug] gld_3bus_fed[44115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:23.658] [console] [debug] gld_3bus_fed[44115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:23.658] [console] [debug] gld_3bus_fed[44115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:23.658] [console] [debug] gld_3bus_fed (131072)[45000]::Granted Time=45000
+[2026-04-13 15:29:23.659] [console] [debug] gld_3bus_fed[45000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:23.659] [console] [debug] gld_3bus_fed[45000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:23.659] [console] [debug] gld_3bus_fed[45000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:24.196] [console] [debug] gld_3bus_fed (131072)[45000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 45000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:24.199] [console] [debug] gld_3bus_fed (131072)[45000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 45000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:24.221] [console] [debug] gld_3bus_fed (131072)[45000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 45000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:24.221] [console] [debug] gld_3bus_fed (131072)[45015]::Granted Time=45015
+                                      Processing 2000-09-01 12:30:15 EDT...[2026-04-13 15:29:24.222] [console] [debug] gld_3bus_fed[45015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:24.223] [console] [debug] gld_3bus_fed[45015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:24.223] [console] [debug] gld_3bus_fed[45015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:24.223] [console] [debug] gld_3bus_fed (131072)[45900]::Granted Time=45900
+[2026-04-13 15:29:24.224] [console] [debug] gld_3bus_fed[45900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:24.224] [console] [debug] gld_3bus_fed[45900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:24.224] [console] [debug] gld_3bus_fed[45900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:24.783] [console] [debug] gld_3bus_fed (131072)[45900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 45900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:24.785] [console] [debug] gld_3bus_fed (131072)[45900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 45900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:24.807] [console] [debug] gld_3bus_fed (131072)[45900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 45900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:24.807] [console] [debug] gld_3bus_fed (131072)[45915]::Granted Time=45915
+[2026-04-13 15:29:24.808] [console] [debug] gld_3bus_fed[45915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:24.808] [console] [debug] gld_3bus_fed[45915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:24.809] [console] [debug] gld_3bus_fed[45915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:24.809] [console] [debug] gld_3bus_fed (131072)[46800]::Granted Time=46800
+[2026-04-13 15:29:24.809] [console] [debug] gld_3bus_fed[46800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:24.809] [console] [debug] gld_3bus_fed[46800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:24.810] [console] [debug] gld_3bus_fed[46800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:25.368] [console] [debug] gld_3bus_fed (131072)[46800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 46800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:25.370] [console] [debug] gld_3bus_fed (131072)[46800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 46800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:25.390] [console] [debug] gld_3bus_fed (131072)[46800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 46800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:25.391] [console] [debug] gld_3bus_fed (131072)[46815]::Granted Time=46815
+                                      Processing 2000-09-01 13:00:15 EDT...[2026-04-13 15:29:25.392] [console] [debug] gld_3bus_fed[46815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:25.392] [console] [debug] gld_3bus_fed[46815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:25.392] [console] [debug] gld_3bus_fed[46815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:25.392] [console] [debug] gld_3bus_fed (131072)[47700]::Granted Time=47700
+[2026-04-13 15:29:25.393] [console] [debug] gld_3bus_fed[47700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:25.393] [console] [debug] gld_3bus_fed[47700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:25.393] [console] [debug] gld_3bus_fed[47700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:25.981] [console] [debug] gld_3bus_fed (131072)[47700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 47700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:25.983] [console] [debug] gld_3bus_fed (131072)[47700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 47700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:26.006] [console] [debug] gld_3bus_fed (131072)[47700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 47700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:26.006] [console] [debug] gld_3bus_fed (131072)[47715]::Granted Time=47715
+                                      Processing 2000-09-01 13:15:15 EDT...[2026-04-13 15:29:26.007] [console] [debug] gld_3bus_fed[47715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:26.007] [console] [debug] gld_3bus_fed[47715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:26.007] [console] [debug] gld_3bus_fed[47715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:26.007] [console] [debug] gld_3bus_fed (131072)[48600]::Granted Time=48600
+[2026-04-13 15:29:26.008] [console] [debug] gld_3bus_fed[48600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:26.008] [console] [debug] gld_3bus_fed[48600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:26.008] [console] [debug] gld_3bus_fed[48600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:26.579] [console] [debug] gld_3bus_fed (131072)[48600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 48600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:26.582] [console] [debug] gld_3bus_fed (131072)[48600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 48600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:26.604] [console] [debug] gld_3bus_fed (131072)[48600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 48600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:26.605] [console] [debug] gld_3bus_fed (131072)[48615]::Granted Time=48615
+[2026-04-13 15:29:26.605] [console] [debug] gld_3bus_fed[48615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:26.606] [console] [debug] gld_3bus_fed[48615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:26.606] [console] [debug] gld_3bus_fed[48615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:26.606] [console] [debug] gld_3bus_fed (131072)[49500]::Granted Time=49500
+[2026-04-13 15:29:26.607] [console] [debug] gld_3bus_fed[49500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:26.607] [console] [debug] gld_3bus_fed[49500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:26.607] [console] [debug] gld_3bus_fed[49500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:27.180] [console] [debug] gld_3bus_fed (131072)[49500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 49500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:27.183] [console] [debug] gld_3bus_fed (131072)[49500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 49500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:27.207] [console] [debug] gld_3bus_fed (131072)[49500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 49500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:27.208] [console] [debug] gld_3bus_fed (131072)[49515]::Granted Time=49515
+                                      Processing 2000-09-01 13:45:15 EDT...[2026-04-13 15:29:27.209] [console] [debug] gld_3bus_fed[49515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:27.210] [console] [debug] gld_3bus_fed[49515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:27.210] [console] [debug] gld_3bus_fed[49515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:27.210] [console] [debug] gld_3bus_fed (131072)[50400]::Granted Time=50400
+[2026-04-13 15:29:27.211] [console] [debug] gld_3bus_fed[50400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:27.211] [console] [debug] gld_3bus_fed[50400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:27.211] [console] [debug] gld_3bus_fed[50400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:27.801] [console] [debug] gld_3bus_fed (131072)[50400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 50400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:27.810] [console] [debug] gld_3bus_fed (131072)[50400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 50400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:27.827] [console] [debug] gld_3bus_fed (131072)[50400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 50400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:27.828] [console] [debug] gld_3bus_fed (131072)[50415]::Granted Time=50415
+[2026-04-13 15:29:27.829] [console] [debug] gld_3bus_fed[50415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:27.830] [console] [debug] gld_3bus_fed[50415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:27.830] [console] [debug] gld_3bus_fed[50415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:27.830] [console] [debug] gld_3bus_fed (131072)[51300]::Granted Time=51300
+[2026-04-13 15:29:27.831] [console] [debug] gld_3bus_fed[51300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:27.831] [console] [debug] gld_3bus_fed[51300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:27.832] [console] [debug] gld_3bus_fed[51300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:28.405] [console] [debug] gld_3bus_fed (131072)[51300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 51300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:28.407] [console] [debug] gld_3bus_fed (131072)[51300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 51300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:28.426] [console] [debug] gld_3bus_fed (131072)[51300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 51300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:28.426] [console] [debug] gld_3bus_fed (131072)[51315]::Granted Time=51315
+                                      Processing 2000-09-01 14:15:15 EDT...[2026-04-13 15:29:28.427] [console] [debug] gld_3bus_fed[51315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:28.428] [console] [debug] gld_3bus_fed[51315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:28.428] [console] [debug] gld_3bus_fed[51315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:28.428] [console] [debug] gld_3bus_fed (131072)[52200]::Granted Time=52200
+[2026-04-13 15:29:28.428] [console] [debug] gld_3bus_fed[52200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:28.429] [console] [debug] gld_3bus_fed[52200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:28.429] [console] [debug] gld_3bus_fed[52200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:29.006] [console] [debug] gld_3bus_fed (131072)[52200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 52200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:29.008] [console] [debug] gld_3bus_fed (131072)[52200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 52200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:29.030] [console] [debug] gld_3bus_fed (131072)[52200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 52200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:29.031] [console] [debug] gld_3bus_fed (131072)[52215]::Granted Time=52215
+                                      Processing 2000-09-01 14:30:15 EDT...[2026-04-13 15:29:29.032] [console] [debug] gld_3bus_fed[52215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:29.032] [console] [debug] gld_3bus_fed[52215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:29.032] [console] [debug] gld_3bus_fed[52215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:29.032] [console] [debug] gld_3bus_fed (131072)[53100]::Granted Time=53100
+[2026-04-13 15:29:29.033] [console] [debug] gld_3bus_fed[53100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:29.033] [console] [debug] gld_3bus_fed[53100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:29.033] [console] [debug] gld_3bus_fed[53100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:29.650] [console] [debug] gld_3bus_fed (131072)[53100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 53100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:29.652] [console] [debug] gld_3bus_fed (131072)[53100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 53100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:29.673] [console] [debug] gld_3bus_fed (131072)[53100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 53100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:29.674] [console] [debug] gld_3bus_fed (131072)[53115]::Granted Time=53115
+[2026-04-13 15:29:29.675] [console] [debug] gld_3bus_fed[53115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:29.675] [console] [debug] gld_3bus_fed[53115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:29.675] [console] [debug] gld_3bus_fed[53115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:29.675] [console] [debug] gld_3bus_fed (131072)[54000]::Granted Time=54000
+[2026-04-13 15:29:29.676] [console] [debug] gld_3bus_fed[54000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:29.676] [console] [debug] gld_3bus_fed[54000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:29.677] [console] [debug] gld_3bus_fed[54000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:30.293] [console] [debug] gld_3bus_fed (131072)[54000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 54000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:30.294] [console] [debug] gld_3bus_fed (131072)[54000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 54000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:30.315] [console] [debug] gld_3bus_fed (131072)[54000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 54000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:30.316] [console] [debug] gld_3bus_fed (131072)[54015]::Granted Time=54015
+                                      Processing 2000-09-01 15:00:15 EDT...[2026-04-13 15:29:30.317] [console] [debug] gld_3bus_fed[54015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:30.317] [console] [debug] gld_3bus_fed[54015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:30.317] [console] [debug] gld_3bus_fed[54015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:30.318] [console] [debug] gld_3bus_fed (131072)[54900]::Granted Time=54900
+[2026-04-13 15:29:30.319] [console] [debug] gld_3bus_fed[54900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:30.319] [console] [debug] gld_3bus_fed[54900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:30.319] [console] [debug] gld_3bus_fed[54900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:30.978] [console] [debug] gld_3bus_fed (131072)[54900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 54900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:30.979] [console] [debug] gld_3bus_fed (131072)[54900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 54900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:31.000] [console] [debug] gld_3bus_fed (131072)[54900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 54900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:31.001] [console] [debug] gld_3bus_fed (131072)[54915]::Granted Time=54915
+[2026-04-13 15:29:31.002] [console] [debug] gld_3bus_fed[54915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:31.003] [console] [debug] gld_3bus_fed[54915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:31.003] [console] [debug] gld_3bus_fed[54915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:31.003] [console] [debug] gld_3bus_fed (131072)[55800]::Granted Time=55800
+                                      Processing 2000-09-01 15:30:00 EDT...[2026-04-13 15:29:31.004] [console] [debug] gld_3bus_fed[55800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:31.004] [console] [debug] gld_3bus_fed[55800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:31.004] [console] [debug] gld_3bus_fed[55800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:31.844] [console] [debug] gld_3bus_fed (131072)[55800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 55800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:31.847] [console] [debug] gld_3bus_fed (131072)[55800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 55800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:31.871] [console] [debug] gld_3bus_fed (131072)[55800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 55800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:31.873] [console] [debug] gld_3bus_fed (131072)[55815]::Granted Time=55815
+[2026-04-13 15:29:31.874] [console] [debug] gld_3bus_fed[55815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:31.875] [console] [debug] gld_3bus_fed[55815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:31.875] [console] [debug] gld_3bus_fed[55815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:31.875] [console] [debug] gld_3bus_fed (131072)[56700]::Granted Time=56700
+[2026-04-13 15:29:31.876] [console] [debug] gld_3bus_fed[56700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:31.876] [console] [debug] gld_3bus_fed[56700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:31.876] [console] [debug] gld_3bus_fed[56700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:32.626] [console] [debug] gld_3bus_fed (131072)[56700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 56700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:32.628] [console] [debug] gld_3bus_fed (131072)[56700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 56700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:32.648] [console] [debug] gld_3bus_fed (131072)[56700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 56700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:32.649] [console] [debug] gld_3bus_fed (131072)[56715]::Granted Time=56715
+                                      Processing 2000-09-01 15:45:15 EDT...[2026-04-13 15:29:32.650] [console] [debug] gld_3bus_fed[56715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:32.650] [console] [debug] gld_3bus_fed[56715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:32.651] [console] [debug] gld_3bus_fed[56715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:32.651] [console] [debug] gld_3bus_fed (131072)[57600]::Granted Time=57600
+[2026-04-13 15:29:32.651] [console] [debug] gld_3bus_fed[57600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:32.652] [console] [debug] gld_3bus_fed[57600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:32.652] [console] [debug] gld_3bus_fed[57600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:33.293] [console] [debug] gld_3bus_fed (131072)[57600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 57600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:33.296] [console] [debug] gld_3bus_fed (131072)[57600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 57600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:33.310] [console] [debug] gld_3bus_fed (131072)[57600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 57600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:33.311] [console] [debug] gld_3bus_fed (131072)[57615]::Granted Time=57615
+                                      Processing 2000-09-01 16:00:15 EDT...[2026-04-13 15:29:33.312] [console] [debug] gld_3bus_fed[57615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:33.313] [console] [debug] gld_3bus_fed[57615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:33.313] [console] [debug] gld_3bus_fed[57615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:33.313] [console] [debug] gld_3bus_fed (131072)[58500]::Granted Time=58500
+[2026-04-13 15:29:33.313] [console] [debug] gld_3bus_fed[58500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:33.314] [console] [debug] gld_3bus_fed[58500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:33.314] [console] [debug] gld_3bus_fed[58500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:34.016] [console] [debug] gld_3bus_fed (131072)[58500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 58500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:34.017] [console] [debug] gld_3bus_fed (131072)[58500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 58500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:34.038] [console] [debug] gld_3bus_fed (131072)[58500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 58500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:34.038] [console] [debug] gld_3bus_fed (131072)[58515]::Granted Time=58515
+                                      Processing 2000-09-01 16:15:15 EDT...[2026-04-13 15:29:34.039] [console] [debug] gld_3bus_fed[58515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:34.039] [console] [debug] gld_3bus_fed[58515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:34.040] [console] [debug] gld_3bus_fed[58515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:34.040] [console] [debug] gld_3bus_fed (131072)[59400]::Granted Time=59400
+[2026-04-13 15:29:34.041] [console] [debug] gld_3bus_fed[59400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:34.041] [console] [debug] gld_3bus_fed[59400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:34.041] [console] [debug] gld_3bus_fed[59400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:34.708] [console] [debug] gld_3bus_fed (131072)[59400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 59400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:34.708] [console] [debug] gld_3bus_fed (131072)[59400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 59400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:34.726] [console] [debug] gld_3bus_fed (131072)[59400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 59400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:34.727] [console] [debug] gld_3bus_fed (131072)[59415]::Granted Time=59415
+[2026-04-13 15:29:34.728] [console] [debug] gld_3bus_fed[59415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:34.728] [console] [debug] gld_3bus_fed[59415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:34.728] [console] [debug] gld_3bus_fed[59415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:34.728] [console] [debug] gld_3bus_fed (131072)[60300]::Granted Time=60300
+[2026-04-13 15:29:34.729] [console] [debug] gld_3bus_fed[60300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:34.729] [console] [debug] gld_3bus_fed[60300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:34.729] [console] [debug] gld_3bus_fed[60300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:35.409] [console] [debug] gld_3bus_fed (131072)[60300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 60300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:35.409] [console] [debug] gld_3bus_fed (131072)[60300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 60300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:35.434] [console] [debug] gld_3bus_fed (131072)[60300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 60300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:35.434] [console] [debug] gld_3bus_fed (131072)[60315]::Granted Time=60315
+                                      Processing 2000-09-01 16:45:15 EDT...[2026-04-13 15:29:35.435] [console] [debug] gld_3bus_fed[60315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:35.435] [console] [debug] gld_3bus_fed[60315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:35.435] [console] [debug] gld_3bus_fed[60315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:35.436] [console] [debug] gld_3bus_fed (131072)[61200]::Granted Time=61200
+[2026-04-13 15:29:35.436] [console] [debug] gld_3bus_fed[61200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:35.437] [console] [debug] gld_3bus_fed[61200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:35.437] [console] [debug] gld_3bus_fed[61200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:36.114] [console] [debug] gld_3bus_fed (131072)[61200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 61200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:36.114] [console] [debug] gld_3bus_fed (131072)[61200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 61200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:36.137] [console] [debug] gld_3bus_fed (131072)[61200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 61200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:36.138] [console] [debug] gld_3bus_fed (131072)[61215]::Granted Time=61215
+                                      Processing 2000-09-01 17:00:15 EDT...[2026-04-13 15:29:36.139] [console] [debug] gld_3bus_fed[61215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:36.139] [console] [debug] gld_3bus_fed[61215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:36.140] [console] [debug] gld_3bus_fed[61215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:36.140] [console] [debug] gld_3bus_fed (131072)[62100]::Granted Time=62100
+[2026-04-13 15:29:36.140] [console] [debug] gld_3bus_fed[62100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:36.141] [console] [debug] gld_3bus_fed[62100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:36.141] [console] [debug] gld_3bus_fed[62100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:36.843] [console] [debug] gld_3bus_fed (131072)[62100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 62100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:36.846] [console] [debug] gld_3bus_fed (131072)[62100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 62100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:36.862] [console] [debug] gld_3bus_fed (131072)[62100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 62100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:36.863] [console] [debug] gld_3bus_fed (131072)[62115]::Granted Time=62115
+[2026-04-13 15:29:36.864] [console] [debug] gld_3bus_fed[62115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:36.864] [console] [debug] gld_3bus_fed[62115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:36.864] [console] [debug] gld_3bus_fed[62115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:36.864] [console] [debug] gld_3bus_fed (131072)[63000]::Granted Time=63000
+[2026-04-13 15:29:36.865] [console] [debug] gld_3bus_fed[63000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:36.865] [console] [debug] gld_3bus_fed[63000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:36.865] [console] [debug] gld_3bus_fed[63000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:37.594] [console] [debug] gld_3bus_fed (131072)[63000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 63000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:37.596] [console] [debug] gld_3bus_fed (131072)[63000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 63000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:37.621] [console] [debug] gld_3bus_fed (131072)[63000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 63000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:37.621] [console] [debug] gld_3bus_fed (131072)[63015]::Granted Time=63015
+                                      Processing 2000-09-01 17:30:15 EDT...[2026-04-13 15:29:37.622] [console] [debug] gld_3bus_fed[63015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:37.622] [console] [debug] gld_3bus_fed[63015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:37.622] [console] [debug] gld_3bus_fed[63015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:37.623] [console] [debug] gld_3bus_fed (131072)[63900]::Granted Time=63900
+[2026-04-13 15:29:37.623] [console] [debug] gld_3bus_fed[63900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:37.623] [console] [debug] gld_3bus_fed[63900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:37.624] [console] [debug] gld_3bus_fed[63900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:38.346] [console] [debug] gld_3bus_fed (131072)[63900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 63900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:38.351] [console] [debug] gld_3bus_fed (131072)[63900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 63900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:38.373] [console] [debug] gld_3bus_fed (131072)[63900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 63900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:38.373] [console] [debug] gld_3bus_fed (131072)[63915]::Granted Time=63915
+                                      Processing 2000-09-01 17:45:15 EDT...[2026-04-13 15:29:38.374] [console] [debug] gld_3bus_fed[63915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:38.374] [console] [debug] gld_3bus_fed[63915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:38.375] [console] [debug] gld_3bus_fed[63915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:38.375] [console] [debug] gld_3bus_fed (131072)[64800]::Granted Time=64800
+[2026-04-13 15:29:38.375] [console] [debug] gld_3bus_fed[64800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:38.376] [console] [debug] gld_3bus_fed[64800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:38.376] [console] [debug] gld_3bus_fed[64800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:39.090] [console] [debug] gld_3bus_fed (131072)[64800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 64800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:39.094] [console] [debug] gld_3bus_fed (131072)[64800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 64800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:39.117] [console] [debug] gld_3bus_fed (131072)[64800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 64800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:39.117] [console] [debug] gld_3bus_fed (131072)[64815]::Granted Time=64815
+                                      Processing 2000-09-01 18:00:15 EDT...[2026-04-13 15:29:39.118] [console] [debug] gld_3bus_fed[64815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:39.118] [console] [debug] gld_3bus_fed[64815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:39.119] [console] [debug] gld_3bus_fed[64815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:39.119] [console] [debug] gld_3bus_fed (131072)[65700]::Granted Time=65700
+[2026-04-13 15:29:39.120] [console] [debug] gld_3bus_fed[65700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:39.120] [console] [debug] gld_3bus_fed[65700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:39.120] [console] [debug] gld_3bus_fed[65700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:39.880] [console] [debug] gld_3bus_fed (131072)[65700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 65700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:39.881] [console] [debug] gld_3bus_fed (131072)[65700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 65700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:39.904] [console] [debug] gld_3bus_fed (131072)[65700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 65700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:39.904] [console] [debug] gld_3bus_fed (131072)[65715]::Granted Time=65715
+[2026-04-13 15:29:39.905] [console] [debug] gld_3bus_fed[65715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:39.905] [console] [debug] gld_3bus_fed[65715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:39.905] [console] [debug] gld_3bus_fed[65715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:39.906] [console] [debug] gld_3bus_fed (131072)[66600]::Granted Time=66600
+[2026-04-13 15:29:39.906] [console] [debug] gld_3bus_fed[66600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:39.907] [console] [debug] gld_3bus_fed[66600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:39.907] [console] [debug] gld_3bus_fed[66600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:40.626] [console] [debug] gld_3bus_fed (131072)[66600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 66600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:40.631] [console] [debug] gld_3bus_fed (131072)[66600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 66600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:40.647] [console] [debug] gld_3bus_fed (131072)[66600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 66600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:40.647] [console] [debug] gld_3bus_fed (131072)[66615]::Granted Time=66615
+                                      Processing 2000-09-01 18:30:15 EDT...[2026-04-13 15:29:40.648] [console] [debug] gld_3bus_fed[66615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:40.648] [console] [debug] gld_3bus_fed[66615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:40.649] [console] [debug] gld_3bus_fed[66615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:40.649] [console] [debug] gld_3bus_fed (131072)[67500]::Granted Time=67500
+[2026-04-13 15:29:40.650] [console] [debug] gld_3bus_fed[67500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:40.650] [console] [debug] gld_3bus_fed[67500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:40.650] [console] [debug] gld_3bus_fed[67500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:41.490] [console] [debug] gld_3bus_fed (131072)[67500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 67500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:41.490] [console] [debug] gld_3bus_fed (131072)[67500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 67500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:41.517] [console] [debug] gld_3bus_fed (131072)[67500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 67500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:41.517] [console] [debug] gld_3bus_fed (131072)[67515]::Granted Time=67515
+                                      Processing 2000-09-01 18:45:15 EDT...[2026-04-13 15:29:41.519] [console] [debug] gld_3bus_fed[67515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:41.519] [console] [debug] gld_3bus_fed[67515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:41.519] [console] [debug] gld_3bus_fed[67515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:41.519] [console] [debug] gld_3bus_fed (131072)[68400]::Granted Time=68400
+[2026-04-13 15:29:41.520] [console] [debug] gld_3bus_fed[68400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:41.520] [console] [debug] gld_3bus_fed[68400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:41.520] [console] [debug] gld_3bus_fed[68400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:42.409] [console] [debug] gld_3bus_fed (131072)[68400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 68400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:42.410] [console] [debug] gld_3bus_fed (131072)[68400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 68400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:42.429] [console] [debug] gld_3bus_fed (131072)[68400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 68400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:42.429] [console] [debug] gld_3bus_fed (131072)[68415]::Granted Time=68415
+                                      Processing 2000-09-01 19:00:15 EDT...[2026-04-13 15:29:42.431] [console] [debug] gld_3bus_fed[68415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:42.431] [console] [debug] gld_3bus_fed[68415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:42.431] [console] [debug] gld_3bus_fed[68415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:42.432] [console] [debug] gld_3bus_fed (131072)[69300]::Granted Time=69300
+[2026-04-13 15:29:42.432] [console] [debug] gld_3bus_fed[69300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:42.432] [console] [debug] gld_3bus_fed[69300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:42.432] [console] [debug] gld_3bus_fed[69300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:43.199] [console] [debug] gld_3bus_fed (131072)[69300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 69300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:43.202] [console] [debug] gld_3bus_fed (131072)[69300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 69300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:43.223] [console] [debug] gld_3bus_fed (131072)[69300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 69300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:43.224] [console] [debug] gld_3bus_fed (131072)[69315]::Granted Time=69315
+                                      Processing 2000-09-01 19:15:15 EDT...[2026-04-13 15:29:43.225] [console] [debug] gld_3bus_fed[69315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:43.225] [console] [debug] gld_3bus_fed[69315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:43.225] [console] [debug] gld_3bus_fed[69315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:43.225] [console] [debug] gld_3bus_fed (131072)[70200]::Granted Time=70200
+[2026-04-13 15:29:43.226] [console] [debug] gld_3bus_fed[70200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:43.226] [console] [debug] gld_3bus_fed[70200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:43.226] [console] [debug] gld_3bus_fed[70200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:42.802] [console] [debug] gld_3bus_fed (131072)[70200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 70200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:42.803] [console] [debug] gld_3bus_fed (131072)[70200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 70200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:42.820] [console] [debug] gld_3bus_fed (131072)[70200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 70200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:42.820] [console] [debug] gld_3bus_fed (131072)[70215]::Granted Time=70215
+[2026-04-13 15:29:42.821] [console] [debug] gld_3bus_fed[70215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:42.821] [console] [debug] gld_3bus_fed[70215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:42.821] [console] [debug] gld_3bus_fed[70215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:42.822] [console] [debug] gld_3bus_fed (131072)[71100]::Granted Time=71100
+[2026-04-13 15:29:42.822] [console] [debug] gld_3bus_fed[71100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:42.822] [console] [debug] gld_3bus_fed[71100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:42.822] [console] [debug] gld_3bus_fed[71100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:43.597] [console] [debug] gld_3bus_fed (131072)[71100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 71100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:43.599] [console] [debug] gld_3bus_fed (131072)[71100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 71100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:43.621] [console] [debug] gld_3bus_fed (131072)[71100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 71100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:43.622] [console] [debug] gld_3bus_fed (131072)[71115]::Granted Time=71115
+[2026-04-13 15:29:43.623] [console] [debug] gld_3bus_fed[71115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:43.623] [console] [debug] gld_3bus_fed[71115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:43.624] [console] [debug] gld_3bus_fed[71115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:43.624] [console] [debug] gld_3bus_fed (131072)[72000]::Granted Time=72000
+[2026-04-13 15:29:43.625] [console] [debug] gld_3bus_fed[72000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:43.625] [console] [debug] gld_3bus_fed[72000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:43.625] [console] [debug] gld_3bus_fed[72000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:44.453] [console] [debug] gld_3bus_fed (131072)[72000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 72000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:44.455] [console] [debug] gld_3bus_fed (131072)[72000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 72000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:44.476] [console] [debug] gld_3bus_fed (131072)[72000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 72000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:44.477] [console] [debug] gld_3bus_fed (131072)[72015]::Granted Time=72015
+                                      Processing 2000-09-01 20:00:15 EDT...[2026-04-13 15:29:44.478] [console] [debug] gld_3bus_fed[72015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:44.478] [console] [debug] gld_3bus_fed[72015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:44.478] [console] [debug] gld_3bus_fed[72015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:44.478] [console] [debug] gld_3bus_fed (131072)[72900]::Granted Time=72900
+[2026-04-13 15:29:44.479] [console] [debug] gld_3bus_fed[72900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:44.479] [console] [debug] gld_3bus_fed[72900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:44.479] [console] [debug] gld_3bus_fed[72900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:45.243] [console] [debug] gld_3bus_fed (131072)[72900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 72900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:45.244] [console] [debug] gld_3bus_fed (131072)[72900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 72900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:45.266] [console] [debug] gld_3bus_fed (131072)[72900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 72900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:45.267] [console] [debug] gld_3bus_fed (131072)[72915]::Granted Time=72915
+                                      Processing 2000-09-01 20:15:15 EDT...[2026-04-13 15:29:45.268] [console] [debug] gld_3bus_fed[72915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:45.269] [console] [debug] gld_3bus_fed[72915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:45.269] [console] [debug] gld_3bus_fed[72915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:45.269] [console] [debug] gld_3bus_fed (131072)[73800]::Granted Time=73800
+[2026-04-13 15:29:45.270] [console] [debug] gld_3bus_fed[73800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:45.270] [console] [debug] gld_3bus_fed[73800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:45.271] [console] [debug] gld_3bus_fed[73800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:46.077] [console] [debug] gld_3bus_fed (131072)[73800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 73800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:46.077] [console] [debug] gld_3bus_fed (131072)[73800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 73800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:46.095] [console] [debug] gld_3bus_fed (131072)[73800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 73800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:46.095] [console] [debug] gld_3bus_fed (131072)[73815]::Granted Time=73815
+                                      Processing 2000-09-01 20:30:15 EDT...[2026-04-13 15:29:46.096] [console] [debug] gld_3bus_fed[73815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:46.096] [console] [debug] gld_3bus_fed[73815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:46.097] [console] [debug] gld_3bus_fed[73815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:46.097] [console] [debug] gld_3bus_fed (131072)[74700]::Granted Time=74700
+[2026-04-13 15:29:46.097] [console] [debug] gld_3bus_fed[74700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:46.098] [console] [debug] gld_3bus_fed[74700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:46.098] [console] [debug] gld_3bus_fed[74700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:46.903] [console] [debug] gld_3bus_fed (131072)[74700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 74700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:46.906] [console] [debug] gld_3bus_fed (131072)[74700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 74700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:46.924] [console] [debug] gld_3bus_fed (131072)[74700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 74700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:46.924] [console] [debug] gld_3bus_fed (131072)[74715]::Granted Time=74715
+[2026-04-13 15:29:46.924] [console] [debug] gld_3bus_fed[74715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:46.925] [console] [debug] gld_3bus_fed[74715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:46.925] [console] [debug] gld_3bus_fed[74715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:46.925] [console] [debug] gld_3bus_fed (131072)[75600]::Granted Time=75600
+[2026-04-13 15:29:46.926] [console] [debug] gld_3bus_fed[75600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:46.926] [console] [debug] gld_3bus_fed[75600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:46.926] [console] [debug] gld_3bus_fed[75600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:47.778] [console] [debug] gld_3bus_fed (131072)[75600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 75600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:47.781] [console] [debug] gld_3bus_fed (131072)[75600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 75600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:47.799] [console] [debug] gld_3bus_fed (131072)[75600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 75600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:47.800] [console] [debug] gld_3bus_fed (131072)[75615]::Granted Time=75615
+                                      Processing 2000-09-01 21:00:15 EDT...[2026-04-13 15:29:47.800] [console] [debug] gld_3bus_fed[75615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:47.800] [console] [debug] gld_3bus_fed[75615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:47.801] [console] [debug] gld_3bus_fed[75615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:47.801] [console] [debug] gld_3bus_fed (131072)[76500]::Granted Time=76500
+[2026-04-13 15:29:47.801] [console] [debug] gld_3bus_fed[76500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:47.801] [console] [debug] gld_3bus_fed[76500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:47.802] [console] [debug] gld_3bus_fed[76500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:48.651] [console] [debug] gld_3bus_fed (131072)[76500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 76500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:48.653] [console] [debug] gld_3bus_fed (131072)[76500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 76500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:48.674] [console] [debug] gld_3bus_fed (131072)[76500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 76500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:48.675] [console] [debug] gld_3bus_fed (131072)[76515]::Granted Time=76515
+                                      Processing 2000-09-01 21:15:15 EDT...[2026-04-13 15:29:48.676] [console] [debug] gld_3bus_fed[76515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:48.676] [console] [debug] gld_3bus_fed[76515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:48.676] [console] [debug] gld_3bus_fed[76515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:48.677] [console] [debug] gld_3bus_fed (131072)[77400]::Granted Time=77400
+[2026-04-13 15:29:48.677] [console] [debug] gld_3bus_fed[77400]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:48.677] [console] [debug] gld_3bus_fed[77400]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:48.678] [console] [debug] gld_3bus_fed[77400]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:49.516] [console] [debug] gld_3bus_fed (131072)[77400]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 77400 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:49.519] [console] [debug] gld_3bus_fed (131072)[77400]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 77400 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:49.538] [console] [debug] gld_3bus_fed (131072)[77400]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 77400 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:49.539] [console] [debug] gld_3bus_fed (131072)[77415]::Granted Time=77415
+                                      Processing 2000-09-01 21:30:15 EDT...[2026-04-13 15:29:49.540] [console] [debug] gld_3bus_fed[77415]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:49.540] [console] [debug] gld_3bus_fed[77415]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:49.540] [console] [debug] gld_3bus_fed[77415]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:49.540] [console] [debug] gld_3bus_fed (131072)[78300]::Granted Time=78300
+[2026-04-13 15:29:49.541] [console] [debug] gld_3bus_fed[78300]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:49.541] [console] [debug] gld_3bus_fed[78300]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:49.541] [console] [debug] gld_3bus_fed[78300]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:50.411] [console] [debug] gld_3bus_fed (131072)[78300]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 78300 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:50.417] [console] [debug] gld_3bus_fed (131072)[78300]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 78300 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:50.435] [console] [debug] gld_3bus_fed (131072)[78300]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 78300 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:50.436] [console] [debug] gld_3bus_fed (131072)[78315]::Granted Time=78315
+                                      Processing 2000-09-01 21:45:15 EDT...[2026-04-13 15:29:50.437] [console] [debug] gld_3bus_fed[78315]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:50.437] [console] [debug] gld_3bus_fed[78315]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:50.437] [console] [debug] gld_3bus_fed[78315]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:50.437] [console] [debug] gld_3bus_fed (131072)[79200]::Granted Time=79200
+[2026-04-13 15:29:50.438] [console] [debug] gld_3bus_fed[79200]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:50.438] [console] [debug] gld_3bus_fed[79200]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:50.438] [console] [debug] gld_3bus_fed[79200]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:51.278] [console] [debug] gld_3bus_fed (131072)[79200]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 79200 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:51.279] [console] [debug] gld_3bus_fed (131072)[79200]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 79200 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:51.301] [console] [debug] gld_3bus_fed (131072)[79200]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 79200 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:51.301] [console] [debug] gld_3bus_fed (131072)[79215]::Granted Time=79215
+                                      Processing 2000-09-01 22:00:15 EDT...[2026-04-13 15:29:51.303] [console] [debug] gld_3bus_fed[79215]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:51.303] [console] [debug] gld_3bus_fed[79215]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:51.304] [console] [debug] gld_3bus_fed[79215]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:51.304] [console] [debug] gld_3bus_fed (131072)[80100]::Granted Time=80100
+[2026-04-13 15:29:51.304] [console] [debug] gld_3bus_fed[80100]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:51.305] [console] [debug] gld_3bus_fed[80100]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:51.305] [console] [debug] gld_3bus_fed[80100]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:52.210] [console] [debug] gld_3bus_fed (131072)[80100]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 80100 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:52.212] [console] [debug] gld_3bus_fed (131072)[80100]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 80100 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:52.234] [console] [debug] gld_3bus_fed (131072)[80100]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 80100 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:52.235] [console] [debug] gld_3bus_fed (131072)[80115]::Granted Time=80115
+                                      Processing 2000-09-01 22:15:15 EDT...[2026-04-13 15:29:52.236] [console] [debug] gld_3bus_fed[80115]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:52.237] [console] [debug] gld_3bus_fed[80115]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:52.237] [console] [debug] gld_3bus_fed[80115]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:52.237] [console] [debug] gld_3bus_fed (131072)[81000]::Granted Time=81000
+[2026-04-13 15:29:52.238] [console] [debug] gld_3bus_fed[81000]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:52.238] [console] [debug] gld_3bus_fed[81000]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:52.238] [console] [debug] gld_3bus_fed[81000]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:53.183] [console] [debug] gld_3bus_fed (131072)[81000]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 81000 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:53.186] [console] [debug] gld_3bus_fed (131072)[81000]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 81000 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:53.208] [console] [debug] gld_3bus_fed (131072)[81000]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 81000 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:53.209] [console] [debug] gld_3bus_fed (131072)[81015]::Granted Time=81015
+                                      Processing 2000-09-01 22:30:15 EDT...[2026-04-13 15:29:53.209] [console] [debug] gld_3bus_fed[81015]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:53.210] [console] [debug] gld_3bus_fed[81015]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:53.210] [console] [debug] gld_3bus_fed[81015]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:53.210] [console] [debug] gld_3bus_fed (131072)[81900]::Granted Time=81900
+[2026-04-13 15:29:53.211] [console] [debug] gld_3bus_fed[81900]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:53.211] [console] [debug] gld_3bus_fed[81900]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:53.211] [console] [debug] gld_3bus_fed[81900]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:54.147] [console] [debug] gld_3bus_fed (131072)[81900]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 81900 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:54.152] [console] [debug] gld_3bus_fed (131072)[81900]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 81900 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:54.167] [console] [debug] gld_3bus_fed (131072)[81900]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 81900 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:54.168] [console] [debug] gld_3bus_fed (131072)[81915]::Granted Time=81915
+                                      Processing 2000-09-01 22:45:15 EDT...[2026-04-13 15:29:54.168] [console] [debug] gld_3bus_fed[81915]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:54.169] [console] [debug] gld_3bus_fed[81915]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:54.169] [console] [debug] gld_3bus_fed[81915]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:54.169] [console] [debug] gld_3bus_fed (131072)[82800]::Granted Time=82800
+[2026-04-13 15:29:54.170] [console] [debug] gld_3bus_fed[82800]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:54.170] [console] [debug] gld_3bus_fed[82800]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:54.170] [console] [debug] gld_3bus_fed[82800]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:55.130] [console] [debug] gld_3bus_fed (131072)[82800]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 82800 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:55.132] [console] [debug] gld_3bus_fed (131072)[82800]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 82800 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:55.151] [console] [debug] gld_3bus_fed (131072)[82800]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 82800 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:55.151] [console] [debug] gld_3bus_fed (131072)[82815]::Granted Time=82815
+                                      Processing 2000-09-01 23:00:15 EDT...[2026-04-13 15:29:55.152] [console] [debug] gld_3bus_fed[82815]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:55.153] [console] [debug] gld_3bus_fed[82815]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:55.153] [console] [debug] gld_3bus_fed[82815]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:55.153] [console] [debug] gld_3bus_fed (131072)[83700]::Granted Time=83700
+[2026-04-13 15:29:55.154] [console] [debug] gld_3bus_fed[83700]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:55.154] [console] [debug] gld_3bus_fed[83700]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:55.154] [console] [debug] gld_3bus_fed[83700]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:56.095] [console] [debug] gld_3bus_fed (131072)[83700]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 83700 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:56.096] [console] [debug] gld_3bus_fed (131072)[83700]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 83700 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:56.122] [console] [debug] gld_3bus_fed (131072)[83700]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 83700 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:56.122] [console] [debug] gld_3bus_fed (131072)[83715]::Granted Time=83715
+                                      Processing 2000-09-01 23:15:15 EDT...[2026-04-13 15:29:56.123] [console] [debug] gld_3bus_fed[83715]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:56.123] [console] [debug] gld_3bus_fed[83715]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:56.124] [console] [debug] gld_3bus_fed[83715]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:56.124] [console] [debug] gld_3bus_fed (131072)[84600]::Granted Time=84600
+[2026-04-13 15:29:56.124] [console] [debug] gld_3bus_fed[84600]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:56.125] [console] [debug] gld_3bus_fed[84600]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:56.125] [console] [debug] gld_3bus_fed[84600]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:57.066] [console] [debug] gld_3bus_fed (131072)[84600]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 84600 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:57.073] [console] [debug] gld_3bus_fed (131072)[84600]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 84600 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:57.094] [console] [debug] gld_3bus_fed (131072)[84600]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 84600 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:57.094] [console] [debug] gld_3bus_fed (131072)[84615]::Granted Time=84615
+                                      Processing 2000-09-01 23:30:15 EDT...[2026-04-13 15:29:57.096] [console] [debug] gld_3bus_fed[84615]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:57.096] [console] [debug] gld_3bus_fed[84615]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:57.096] [console] [debug] gld_3bus_fed[84615]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:57.097] [console] [debug] gld_3bus_fed (131072)[85500]::Granted Time=85500
+[2026-04-13 15:29:57.097] [console] [debug] gld_3bus_fed[85500]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:57.097] [console] [debug] gld_3bus_fed[85500]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:57.097] [console] [debug] gld_3bus_fed[85500]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:58.080] [console] [debug] gld_3bus_fed (131072)[85500]::receive PUBLICATION pub:From (131075) handle(4) size 0 at 85500 to 131072 from gridpack_b/Vb
+[2026-04-13 15:29:58.081] [console] [debug] gld_3bus_fed (131072)[85500]::receive PUBLICATION pub:From (131074) handle(5) size 0 at 85500 to 131072 from gridpack_c/Vc
+[2026-04-13 15:29:58.103] [console] [debug] gld_3bus_fed (131072)[85500]::receive PUBLICATION pub:From (131073) handle(3) size 0 at 85500 to 131072 from gridpack_a/Va
+[2026-04-13 15:29:58.103] [console] [debug] gld_3bus_fed (131072)[85515]::Granted Time=85515
+                                      Processing 2000-09-01 23:45:15 EDT...[2026-04-13 15:29:58.104] [console] [debug] gld_3bus_fed[85515]::setting value for gld_hlc_conn/Sa size 24
+[2026-04-13 15:29:58.105] [console] [debug] gld_3bus_fed[85515]::setting value for gld_hlc_conn/Sb size 24
+[2026-04-13 15:29:58.105] [console] [debug] gld_3bus_fed[85515]::setting value for gld_hlc_conn/Sc size 24
+[2026-04-13 15:29:58.105] [console] [debug] gld_3bus_fed (131072)[86400]::Granted Time=86400
+[2026-04-13 15:29:58.112] [console] [debug] gld_3bus_fed (131072)[86400]::Terminating
+[2026-04-13 15:29:58.112] [console] [debug] gld_3bus_fed (131072)[86400]::Granted Time=86400
+
+Core profiler results
+======================
+
+Total objects                 19 objects
+Parallelism                    1 thread
+Total time                  52.0 seconds
+  Core time                 51.2 seconds (98.5%)
+    Compiler                 0.0 seconds (0.0%)
+    Instances                0.0 seconds (0.0%)
+    Random variables         0.0 seconds (0.0%)
+    Schedules                0.0 seconds (0.0%)
+    Loadshapes               0.0 seconds (0.0%)
+    Enduses                  0.0 seconds (0.0%)
+    Transforms               0.0 seconds (0.0%)
+  Model time                 0.8 seconds/thread (1.5%)
+Simulation time                1 days
+Simulation speed               9 object.hours/second
+Passes completed             201 passes
+Time steps completed         197 timesteps
+Convergence efficiency      1.02 passes/timestep
+Read lock contention        0.0%
+Write lock contention       0.0%
+Average timestep            439 seconds/timestep
+Simulation rate            1662 x realtime
+
+
+Model profiler results
+======================
+
+Class            Time (s) Time (%) msec/obj
+---------------- -------- -------- --------
+helics_msg         0.682     88.8%    682.5
+recorder           0.042      5.5%      7.1
+meter              0.026      3.4%     26.1
+load               0.004      0.5%      2.0
+currdump           0.004      0.5%      3.8
+voltdump           0.004      0.5%      3.8
+overhead_line      0.004      0.5%      0.9
+node               0.002      0.3%      1.2
+================ ======== ======== ========
+Total              0.769    100.0%     40.5
+

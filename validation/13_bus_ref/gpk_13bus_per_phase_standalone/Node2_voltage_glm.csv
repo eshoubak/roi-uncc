@@ -1,0 +1,13 @@
+# file...... Node2_voltage_glm.csv
+# date...... Thu Mar 26 10:54:53 2026
+# user...... docker
+# host...... (null)
+# target.... node 15
+# trigger... (none)
+# interval.. 900
+# limit..... 0
+# timestamp,voltage_A.real,voltage_A.imag,voltage_B.real,voltage_B.imag,voltage_C.real,voltage_C.imag
+2000-09-01 12:00:00 EDT,+2384.92,-14.9556,-1208.14,-2062.8,-1184.6,+2091.94
+2000-09-01 12:15:00 EDT,+2384.92,-14.9556,-1208.14,-2062.8,-1184.6,+2091.94
+2000-09-01 12:30:00 EDT,+2384.92,-14.9556,-1208.14,-2062.8,-1184.6,+2091.94
+2000-09-01 12:45:00 EDT,+2384.92,-14.9556,-1208.14,-2062.8,-1184.6,+2091.94

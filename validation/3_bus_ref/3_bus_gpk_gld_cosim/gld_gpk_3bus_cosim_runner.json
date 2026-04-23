@@ -1,0 +1,36 @@
+{
+  "name": "3bus_gpk__gld_CoSimulation-HELICSRunner",
+  "stop_time": 86400.0,
+  "federates": [
+    {
+      "name": "broker",
+      "host": "localhost",
+      "exec": "helics_broker --coretype=tcp -f4 --port=23500 --local_interface=127.0.0.1 --ipv4 --loglevel=trace --logfile=logs/broker.log",
+      "directory": "."
+    },
+    {
+      "name": "gld_3bus_fed",
+      "host": "localhost",
+      "exec": "gridlabd.sh gld_3bus.glm",
+      "directory": "."
+    },
+    {
+      "name": "gpk_fed_A",
+      "host": "localhost",
+      "exec": "./build/powerflow_ex_A.x",
+      "directory": "."
+    },
+    {
+      "name": "gpk_fed_B",
+      "host": "localhost",
+      "exec": "./build/powerflow_ex_B.x",
+      "directory": "."
+    },
+    {
+      "name": "gpk_fed_C",
+      "host": "localhost",
+      "exec": "./build/powerflow_ex_C.x",
+      "directory": "."
+    }
+  ]
+}
